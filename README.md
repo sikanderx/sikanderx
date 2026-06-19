@@ -1,4 +1,4 @@
-# Hi 👋, 
+# Hello friends👋, 
 
 <p align="left"> <a href="https://twitter.com/isikanderx" target="blank"><img src="https://img.shields.io/twitter/follow/isikanderx?logo=twitter&style=for-the-badge" alt="isikanderx" /></a> </p>
 
