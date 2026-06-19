@@ -1,8 +1,4 @@
-# Hi 👋, I'm Sikander Shaikh
-
-### A passionate Software Developer
-
-<p align="left"><img src="https://avatars.githubusercontent.com/u/16410560?v=4" width="200" height="200" alt="sikanderx" /></p>
+# Hi 👋, 
 
 <p align="left"> <a href="https://twitter.com/isikanderx" target="blank"><img src="https://img.shields.io/twitter/follow/isikanderx?logo=twitter&style=for-the-badge" alt="isikanderx" /></a> </p>
 
