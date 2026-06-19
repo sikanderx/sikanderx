@@ -26,8 +26,8 @@
 <a href="https://linkedin.com/in/sikanderx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sikanderx" height="30" width="40" /></a>
 <a href="https://instagram.com/sikanderx97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sikanderx97" height="30" width="40" /></a>
 <a href="https://twitter.com/isikanderx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isikanderx" height="30" width="40" /></a>
-<a href="https://medium.com/sikanderx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sikanderx" height="30" width="40" /></a>
-<a href="https://youtube.com/CodeWithSikander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="CodeWithSikander" height="30" width="40" /></a>
+<a href="https://medium.com/@sikanderx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sikanderx" height="30" width="40" /></a>
+<a href="https://youtube.com/@CodeWithSikander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="CodeWithSikander" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
