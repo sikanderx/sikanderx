@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://sikanderx.github.io/](https://sikanderx.github.io/)**
 
-- 📝 I regularly write articles on **[https://imsikander.blogspot.com/](https://imsikander.blogspot.com/)**
+- 📝 I regularly write articles on **[https://sikanderx.medium.com/](https://sikanderx.medium.com/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
