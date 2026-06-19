@@ -1,8 +1,6 @@
 # Hi 👋, I'm Sikander Shaikh
 
-### A passionate Full-Stack Developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sikanderx&label=Profile views&color=0e75b6&style=flat" alt="sikanderx" /> </p>
+### A passionate Software Developer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sikanderx" alt="sikanderx" /></a> </p>
 
